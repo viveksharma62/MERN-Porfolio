@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/package-lock.json
+/clientside/node_modules
+/clientside/package-lock.json
+/clientside/.env
